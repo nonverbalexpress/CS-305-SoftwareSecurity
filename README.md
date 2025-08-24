@@ -38,6 +38,6 @@ From this work, I can show that I know how to:
 - **Refactor insecure code** and apply modern security fixes.  
 - Use **encryption, hashing, and HTTPS** in a Java application.  
 - Apply **industry best practices** and use professional tools.  
-- **Work through setbacks** — especially troubleshooting Maven until I got it working — which shows persistence and problem-solving.  
+- **Work through setbacks**, especially troubleshooting Maven until I got it working, which shows persistence and problem-solving.  
 
-This project proves I can identify risks, implement secure solutions, and reflect on areas to grow, which is what real-world software security requires.
+This project demonstrates my ability to identify risks, implement secure solutions, and reflect on areas for growth, which is a key requirement for real-world software security.
